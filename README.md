@@ -28,7 +28,7 @@ Making it suitable for experimentation, teaching, and rapid prototyping.
 - Accuracy evaluation + confusion matrix
 - Fully reusable `BioHD` class
 
-# requirements.txt
+# requirements
 
 ```text
 numpy
