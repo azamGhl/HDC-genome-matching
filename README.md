@@ -14,6 +14,23 @@ The project supports both:
 Making it suitable for experimentation, teaching, and rapid prototyping.
 
 ---
+## Hyperdimensional Computing Overview
+
+Hyperdimensional computing (HDC) represents symbols and sequences using
+high-dimensional random binary vectors.
+In this project:
+
+DNA bases → base hypervectors
+
+Position encoding → circular permutation
+
+Binding → XOR
+
+Bundling → majority vote
+
+Similarity search → Hamming / Cosine
+
+This results in a fast and scalable approach to genome sequence comparison.
 
 ## Features
 
@@ -28,7 +45,7 @@ Making it suitable for experimentation, teaching, and rapid prototyping.
 - Accuracy evaluation + confusion matrix
 - Fully reusable `BioHD` class
 
-# requirements
+## requirements
 
 ```text
 numpy
