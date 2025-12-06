@@ -1,4 +1,4 @@
-# HDCgenome – Hyperdimensional Genome Sequence Matching (NumPy Implementation)
+****# HDCgenome – Hyperdimensional Genome Sequence Matching (NumPy Implementation)
 
 This project implements a hyperdimensional computing (HDC)–based framework for
 **genome sequence matching**, using high-dimensional binary hypervectors and
@@ -15,7 +15,7 @@ Making it suitable for experimentation, teaching, and rapid prototyping.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Binary hypervector encoding for DNA bases (A, C, G, T)
 - Position-dependent binding using circular permutation + XOR
@@ -28,7 +28,4 @@ Making it suitable for experimentation, teaching, and rapid prototyping.
 - Accuracy evaluation + confusion matrix
 - Fully reusable `BioHD` class
 
----
-
-## 📁 Project Structure
 
